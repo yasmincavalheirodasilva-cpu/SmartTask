@@ -10,6 +10,10 @@ public class Tarefa {
         this.dataEntrega = dataEntrega;
         this.prioridade = "Baixa"; // VALOR PADRÃO
     }
-"readição commit data";
+
+    public void status() {
+        System.out.println("Pendente"); 
+    }
+
     
 }
