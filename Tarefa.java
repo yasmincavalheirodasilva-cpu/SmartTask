@@ -12,7 +12,7 @@ public class Tarefa {
     }
 
     public void status() {
-        System.out.println("em aberto"); 
+        System.out.println("Pending"); 
     }
 
     
